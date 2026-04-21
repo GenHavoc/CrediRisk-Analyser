@@ -42,24 +42,6 @@ The interactive dashboard allows you to:
 
 ---
 
-## 🔮 Future Work
+ 
 
-- [ ] Hyperparameter tuning with Optuna
-- [ ] Calibrate predicted probabilities (Platt scaling)
-- [ ] Add LightGBM / CatBoost comparison
-- [ ] Deploy dashboard to Streamlit Cloud
-- [ ] Add customer segmentation clustering
-
----
-
-## 📄 License
-
-MIT License — feel free to use, modify, and distribute.
-
----
-
-## 🙏 Acknowledgements
-
-- [Home Credit Group](https://www.homecredit.net/) for the dataset
-- [Kaggle Competition](https://www.kaggle.com/competitions/home-credit-default-risk)
-- SHAP library by Scott Lundberg
+ 

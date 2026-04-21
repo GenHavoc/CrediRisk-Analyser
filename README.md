@@ -1,21 +1,15 @@
 ---
 
+## 🖥️ Streamlit Dashboard
 
----
+The interactive dashboard allows you to:
+- Select any customer by index
+- View their **default risk probability**
+- Inspect a **SHAP force plot** explaining the prediction
 
- 
-YAML block (`|`) already supports markdown—you usually don’t need bold at all:
-
-```yaml
-description: |
-  ## 🖥️ Streamlit Dashboard
-  The interactive dashboard allows you to:
-  - Select any customer by index
-  - View their default risk probability
-  - Inspect a SHAP force plot explaining the prediction
-
-  ```bash
-  streamlit run app.py
+```bash
+streamlit run app.py
+```
 
 ---
 
@@ -58,7 +52,13 @@ description: |
 
 ---
 
-## Acknowledgements
+## 📄 License
+
+MIT License — feel free to use, modify, and distribute.
+
+---
+
+## 🙏 Acknowledgements
 
 - [Home Credit Group](https://www.homecredit.net/) for the dataset
 - [Kaggle Competition](https://www.kaggle.com/competitions/home-credit-default-risk)

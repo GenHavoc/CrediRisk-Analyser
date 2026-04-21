@@ -1,14 +1,19 @@
 ---
 
-description: |
-  ## 🖥️ Streamlit Dashboard
-  The interactive dashboard allows you to:
-  - Select any customer by index
-  - View their **default risk probability**
-  - Inspect a **SHAP force plot** explaining the prediction
+## 🖥️ Streamlit Dashboard
 
-  ```bash
-  streamlit run app.py
+This interactive dashboard lets you:
+
+* Select any customer by index
+* View their **default risk probability**
+* Explore a **SHAP force plot** to understand the model’s prediction
+
+### ▶️ Run the app
+
+```bash
+streamlit run app.py
+```
+
 ---
 
 ## 📈 Results Summary

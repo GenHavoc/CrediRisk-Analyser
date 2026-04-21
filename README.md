@@ -1,18 +1,21 @@
 ---
 
-## 🖥️ Streamlit Dashboard
 
-This interactive dashboard lets you:
+---
 
-* Select any customer by index
-* View their **default risk probability**
-* Explore a **SHAP force plot** to understand the model’s prediction
+ 
+YAML block (`|`) already supports markdown—you usually don’t need bold at all:
 
-### ▶️ Run the app
+```yaml
+description: |
+  ## 🖥️ Streamlit Dashboard
+  The interactive dashboard allows you to:
+  - Select any customer by index
+  - View their default risk probability
+  - Inspect a SHAP force plot explaining the prediction
 
-```bash
-streamlit run app.py
-```
+  ```bash
+  streamlit run app.py
 
 ---
 

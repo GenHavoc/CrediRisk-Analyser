@@ -5,7 +5,7 @@
 The interactive dashboard allows you to:
 - Select any customer by index
 - View their **default risk probability**
-- Inspect a **SHAP force plot** explaining the prediction
+- Inspect a **SHAP force plot** explaining the prediction**
 
 ```bash
 streamlit run app.py

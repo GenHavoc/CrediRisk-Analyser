@@ -1,14 +1,16 @@
 ---
 
-## 🖥️ Streamlit Dashboard
+description: |
+  ---
 
-The interactive dashboard allows you to:
-- Select any customer by index
-- View their **default risk probability**
- 
+  ## 🖥️ Streamlit Dashboard
 
-```bash
-streamlit run app.py
+  The interactive dashboard allows you to:
+  - Select any customer by index
+  - View their **default risk probability**
+
+  ```bash
+  streamlit run app.py
 ```
 
 ---
